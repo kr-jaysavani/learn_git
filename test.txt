@@ -1,1 +1,1 @@
-this is test file branch cmdbranch.
+this is test file branch cmdbranch conflicts.
